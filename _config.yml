@@ -1,0 +1,22 @@
+title: Xiaodong Zhang
+description: Ph.D. candidate in Aeroengine Structural Dynamics and Uncertainty Quantification
+theme: minima
+# Show top navigation: list the pages you want in the header
+header_pages:
+  - publications.md
+  - projects.md
+  - teaching.md
+  - awards.md
+  - contact.md
+
+# Optional site settings
+author:
+  name: Xiaodong Zhang
+  email: zhangxiaodong@example.com
+github_username: Xiaod-Zhang
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+# If you later add a custom domain, set 'url' (e.g., https://xiaod-zhang.github.io)
